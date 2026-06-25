@@ -7,6 +7,6 @@ FastAPI | LangChain | Agentic RAG | MCP | vLLM
 - 🚀 Proactively exploring Agents, MCP, and inference optimization—beyond superficial API calls  
 
 📌 **Building a verifiable portfolio of production-grade LLM capabilities**  
-- ✅ `llm-doc-parser` — Production PDF parsing & semantic chunking (MinerU vs. Docling benchmarked)  
+- ✅ `enterprise-rag-engine` —  Evaluable enterprise RAG document pipeline (parsing · chunking · async · FastAPI)
 - ✅ `rag-eval-pipeline` — Automated RAG evaluation pipeline (RAGAS + LangFuse integrated)  
 - 🚀 `agentic-rag-knowledge-base` — Enterprise knowledge base (Multi-Agent + MCP)  
